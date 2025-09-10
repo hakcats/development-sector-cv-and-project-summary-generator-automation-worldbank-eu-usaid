@@ -88,24 +88,24 @@ It creates **institution-specific documents** (World Bank, EU, USAID, etc.) in m
     <tbody>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/2e73e8b5-a93e-4dc1-9297-5ebec38fb532" controls preload>
+                <video src="https://github.com/user-attachments/assets/1e37d06b-5273-4645-846a-ad49134c3ac8" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/5d87087d-615c-44e3-adfe-d21137d1552e" controls preload>
+                <video src="https://github.com/user-attachments/assets/5b064760-62a0-45a3-a2bc-2f908ec4b61a" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
         </tr>
         <tr>
             <td>
-                <video src="https://github.com/user-attachments/assets/7123d049-c09b-4dd6-9fec-f26559adc930" controls preload>
+                <video src="https://github.com/user-attachments/assets/f25d377f-6f24-4a47-9ba9-03bcf1d99131" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
             <td>
-                <video src="https://github.com/user-attachments/assets/e7549960-17d1-4a6a-ba0f-cbd293b190b7" controls preload>
+                <video src="https://github.com/user-attachments/assets/9a33fde4-8b6c-400c-877d-17a6761b6909" controls preload>
                     Your browser does not support the video tag.
                 </video>
             </td>
